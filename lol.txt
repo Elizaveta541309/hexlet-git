@@ -1,0 +1,12 @@
+im Liza >> lol.txt
+
+
+
+
+
+
+
+
+cd
+f
+echo im Liza
